@@ -5,5 +5,5 @@ array[index] != " "
 
 array[index] != ""
 
-array[index] == "X" || array[index] "O"
+array[index] == "X" || array[index] == "O"
 end
