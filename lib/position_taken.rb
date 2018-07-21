@@ -9,4 +9,4 @@ array[index] != nil
 
 array[index] == "X" || "O"
 end
-end
+
