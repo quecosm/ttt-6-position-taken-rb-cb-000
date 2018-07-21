@@ -1,12 +1,12 @@
 # code your #position_taken? method here!
 board = [" "," "," "," "," "," "," "," "," "]
 def position_taken? (array, index)
-if array[index] != " "
+array[index] != " "
 
-elsif array[index] != ""
+array[index] != ""
 
-elsif array[index] != nil
+array[index] != nil
 
-elsif array[index] == "X" || "O"
+array[index] == "X" || "O"
 end
 end
